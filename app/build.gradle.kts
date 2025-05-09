@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.project.pradyotprakash.flashchat"
+    namespace = "com.project.flashchat"
     compileSdk = 34
 
     defaultConfig {

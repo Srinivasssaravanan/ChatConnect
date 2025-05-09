@@ -12,7 +12,7 @@
 
         <!-- Main Activity -->
         <activity android:name=".MainActivity"
-            android:exported="true"> <!-- Set exported=true for launcher activities -->
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

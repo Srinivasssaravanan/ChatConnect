@@ -1,4 +1,4 @@
-package com.example.chatapplication
+package com.example.flashchat
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

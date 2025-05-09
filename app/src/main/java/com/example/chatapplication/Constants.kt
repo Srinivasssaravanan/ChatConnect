@@ -1,4 +1,4 @@
-package com.project.pradyotprakash.flashchat
+package com.project.flashchat
 
 object Constants {
     const val TAG = "flash-chat"

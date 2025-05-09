@@ -17,9 +17,6 @@ import com.project.flashchat.view.home.HomeView
 import com.project.flashchat.view.login.LoginView
 import com.project.flashchat.view.register.RegisterView
 
-/**
- * The main Navigation composable which will handle all the navigation stack.
- */
 
 @Composable
 fun NavComposeApp() {
